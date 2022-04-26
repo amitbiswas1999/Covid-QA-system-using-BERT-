@@ -1,1 +1,1 @@
-# Covid-Q&A-system-using-BERT-
+# Covid Q&A system using BERT
