@@ -25,3 +25,11 @@ Steps:-
 
 [Download Covid Dataset from here](https://ai2-semanticscholar-cord-19.s3-us-west-2.amazonaws.com/historical_releases/cord-19_2021-11-15.tar.gz
 ) 
+
+## Tools
+here I have used haystack which is an open-source framework for building search systems that work intelligently over large document collections.
+Recent advances in NLP have enabled the application of question answering, retrieval and summarization to real world settings and Haystack is designed to be the bridge between research and industry.
+For more explanation please refer [this docs](https://haystack.deepset.ai/overview/intro)
+![image](https://user-images.githubusercontent.com/88819794/165554750-7be0322b-02b9-4ebf-94af-5231e5e78d31.png)
+
+
