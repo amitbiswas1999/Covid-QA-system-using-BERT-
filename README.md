@@ -1,5 +1,5 @@
 
-# Build and Deploy a BERT COVID Q&A System
+# Build and Deploy a COVID Q&A System using BERT
 
 Develop a BERT Q&A system that provides real-time answers from over 200,000 COVID research papers
 
